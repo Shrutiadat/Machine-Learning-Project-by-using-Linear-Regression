@@ -19,6 +19,7 @@
 - The coefficients (beta values) and the intercept (beta not value) of the linear regression model are obtained.
 - Predictions are made on both the training and testing sets.
 - The model's performance is evaluated using various metrics:
+  
     -Error is calculated as the difference between actual and predicted values.
     -Mean Square Error (MSE) is computed.
     -Root Mean Square Error (RMSE) is calculated.
